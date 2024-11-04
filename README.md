@@ -10,14 +10,14 @@
 [![GaYoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=GaYoung28&show_icons=true&theme=cobalt&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
-
+<!--
 ### Solved.ac
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lky0928)](https://solved.ac/lky0928/)
 
 
 
-<!--
+
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=깃허브%20특강&fontSize=90)
 
 
