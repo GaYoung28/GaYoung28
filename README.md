@@ -5,12 +5,12 @@
 [![GaYoung's languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GaYoung28&theme=dracula&layout=compact&hide=javascript,html,jupyter%20notebook&exclude_repo=python-vaction)](https://github.com/anuraghazra/github-readme-stats)
 
 
-
+<!--
 ### GitHub stats
 [![GaYoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=GaYoung28&show_icons=true&theme=cobalt&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<!--
+
 ### Solved.ac
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lky0928)](https://solved.ac/lky0928/)
